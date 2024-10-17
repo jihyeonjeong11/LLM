@@ -4,6 +4,20 @@ https://github.com/f/awesome-chatgpt-prompts
 
 https://github.blog/ai-and-ml/generative-ai/prompt-engineering-guide-generative-ai-llms/
 
+# Summary - usage of Language Models
+
+##### Important! THis will work if your code is not TOO complex! Split the code to maximize AI code quality!!!!
+
+- Generate project ideas
+- Plan projects, write user stories and JIRA tickets
+- generate code and code snippets
+- generate mock data
+- debug
+- get refactor suggestions
+- convert code from on format to another
+- write tests & documentation
+- learn new techs and advanced topics faster
+
 - good roleplay prompts
 
 Ai model would be replace unfit developers in near future.
